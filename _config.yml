@@ -1,0 +1,28 @@
+name: prodigiously
+favicon: null
+layout_spectrum: 0.12089608889073133
+typography_spectrum: 0.8143917801789939
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24752456811256707
+  lightness: 0.8801456482615322
+  saturation: 0.0321658079046756
+  rhythmicContrast: 0.18661300907842815
+purpose: []
